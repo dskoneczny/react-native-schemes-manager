@@ -1,3 +1,4 @@
+'use strict';
 module.exports = {
 	fixLibraries: require('./fix-libraries'),
 	fixScript: require('./fix-script'),
